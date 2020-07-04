@@ -1,0 +1,10 @@
+name: ProtocolSupport
+main: protocolsupport.ProtocolSupport
+version: 1.0
+author: _Shevchik_, LeeGod
+load: STARTUP
+commands:
+  protocolsupport:
+    description: All ProtocolSupport commands
+    aliases: ps
+    usage: Invalid command
